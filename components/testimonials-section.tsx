@@ -12,7 +12,7 @@ const testimonials = [
     id: 1,
     name: "Ahmed Khan",
     role: "Tech Entrepreneur",
-    image: "/images/testimonial-1.png",
+    image: "/assets/men.jpeg",
     quote:
       "The AI-powered property matching was incredible. Within hours, I found the perfect mountain-view plot that matched all my criteria. The blockchain verification gave me complete confidence in the transaction.",
     rating: 5,
@@ -22,7 +22,7 @@ const testimonials = [
     id: 2,
     name: "Fatima Zahra",
     role: "Digital Nomad",
-    image: "/images/testimonial-2.png",
+    image: "/assets/women.jpeg",
     quote:
       "The virtual reality tours saved me multiple trips to Gilgit. I could explore every property in detail from my home in Karachi. The smart contract integration made the purchase seamless and secure.",
     rating: 5,
@@ -32,7 +32,7 @@ const testimonials = [
     id: 3,
     name: "Mohammad Ali",
     role: "Investment Analyst",
-    image: "/images/testimonial-3.png",
+    image: "/assets/men2.jpeg",
     quote:
       "Their predictive analytics helped me identify high-growth areas before they became popular. The ROI on my Gilgit properties has exceeded all expectations thanks to their data-driven insights.",
     rating: 5,

@@ -26,7 +26,7 @@ export default function AboutSection() {
             <div className="relative">
               <div className="absolute -inset-4 bg-gradient-to-r from-green-100 to-blue-100 rounded-2xl blur-xl opacity-50" />
               <div className="relative h-[500px] w-full rounded-2xl overflow-hidden shadow-2xl border border-gray-200">
-                <Image src="/images/about-image.png" alt="Gilgit Properties Office" fill className="object-cover" />
+                <Image src="/assets/land.jpg" alt="Gilgit Properties Office" fill className="object-cover" />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent" />
               </div>
             </div>
